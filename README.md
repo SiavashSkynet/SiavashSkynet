@@ -1,11 +1,10 @@
-## Hi there👋
+## Hey, I'm Siavash 👋
 
-- I am currently developing on the Embedded Linux such PoS device, . They are really cool.😙
+I write C for embedded Linux, from payment terminals to 5G core networking.
+Lately, I've been working on mobility and exploring network slicing with Open5GS.
 
-- Love to keep diving in C.
+I like learning by building. That's how [POSLab](https://github.com/SiavashSkynet/POSLab)
+started: a C playground for simulating a payment terminal and its host.
 
-- My very new motive: `What I can't create, I  don't understand.`
-
-I want to share fun facts that I learnt with you on medium. So here is [my medium](https://medium.com/@SiavashSkynet/possibility-of-changing-constant-in-c-da3a4629243a).
-
-
+> “What I cannot create, I do not understand.”
+> — Richard Feynman
