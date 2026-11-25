@@ -1,8 +1,8 @@
 ## Hi there👋
 
-- I am currently working on ESP32 and ESP8266. They are really cool.😙
+- I am currently developing on the Embedded Linux such PoS device, . They are really cool.😙
 
-- I love to keep diving in C.
+- Love to keep diving in C.
 
 - My very new motive: `What I can't create, I  don't understand.`
 
